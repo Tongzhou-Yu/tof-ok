@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Tongzhou-Yu/tof-ok/">
-    <img src="blob/main/ToF%2COK!.png" alt="Logo" width="360">
+  <a>
+    <img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" alt="Logo" width="360">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
