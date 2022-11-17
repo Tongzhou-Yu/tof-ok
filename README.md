@@ -10,9 +10,6 @@
   <p align="center">
     An UGC tool to jumpstart your virtual fashion projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo</a>
   </p>
 </div>
