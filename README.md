@@ -1,7 +1,7 @@
 <a name="about"></a>
 # About ToF,OK!  
 
-ToF,OK! is an UGC solution based on for virtual fashion designers who are working in metaverse creative industries.  
+ToF,OK! is an UGC solution using ToF AR toolkit for virtual fashion designers who are working in metaverse creative industries.  
 The vision is to enable the designer to move away from traditional 3D design workflows and design augmented reality products in augmented reality interactions, just like the tailoring approach in apparel design.  
 
 <a name="about"></a>
