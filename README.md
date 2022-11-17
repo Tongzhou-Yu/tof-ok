@@ -12,6 +12,8 @@
     <br />
     <br />
     <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo</a>
+        ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
   </p>
 </div>
 
