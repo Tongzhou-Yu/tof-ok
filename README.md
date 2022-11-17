@@ -5,10 +5,10 @@
     <img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" alt="Logo" width="360">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">ToF,OK!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An UGC tool to jumpstart your virtual fashion projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
