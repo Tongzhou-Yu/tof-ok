@@ -14,7 +14,6 @@
     <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo '雷电,OK!'</a>
         ·
     <a href="https://blog.csdn.net/weixin_45454260/article/details/125945766">Explore the docs</a>
-    <br />
   </p>
 </div>
 
@@ -28,6 +27,7 @@ The vision is to enable the designer to move away from traditional 3D design wor
 | --- | --- |
 | TofOkManager | Important. All make up assets on, such as point brush, line brush and sound. |
 | UIManager | Optional. Control the funtion of the UI assets. |
+<br />
 
 <a name="about"></a>
 # About ToF AR
