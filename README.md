@@ -59,9 +59,8 @@ ToF AR Development documents are also available on Developer World.
 
 Operation was verified in the following environment:
 
-* Unity Version  : 2020.3.36f1
-* ToF AR Version : 1.1.0
-* AR Foundation  : 4.2.3
+* Unity Version  : 2020.3.28f1
+* ToF AR Version : 1.0.0
 
 
 <a name="contributing"></a>
