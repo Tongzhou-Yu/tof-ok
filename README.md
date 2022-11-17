@@ -1,4 +1,4 @@
- ![image](https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png)
+<img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" width="100px">
 
 <a name="about"></a>
 # About ToF,OK!  
