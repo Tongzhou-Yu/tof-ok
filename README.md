@@ -1,2 +1,33 @@
-# tof-ok
-About Sample application for ToF AR toolkit by SonySemiconductorSolutions.
+# tof-ok  
+<a name="environment"></a>
+# Development environment
+
+## Build library
+ToF AR is required in order to build.
+Please download the Toolkit from [the ToF AR Site on Sony Developer World](https://developer.sony.com/develop/tof-ar) and import it.
+Please see [Setting up AR Foundation](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html#_setting_up_ar_foundation) in the [ToF AR user manual](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html) for more information on how to set up AR Foundation.  
+If the project is opened before importing, a confirmation message for entering safe mode will appear depending on the settings.  
+If safe mode is entered, please import after exiting safe mode from the safe mode menu etc.
+
+## Documents
+
+ToF AR Development documents are also available on Developer World.
+
+* [ToF AR user manual](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html) for overview and usage
+* [ToF AR reference articles](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_Reference_Articles_en.html) for articles about each component
+* [ToF AR API references](https://developer.sony.com/develop/tof-ar/development-guides/reference-api/reference/api/TofAr.V0.html)
+
+## Verification environment
+
+Operation was verified in the following environment:
+
+* Unity Version  : 2020.3.36f1
+* ToF AR Version : 1.1.0
+* AR Foundation  : 4.2.3
+
+
+<a name="contributing"></a>
+# Contributing
+**We cannot accept any Pull Requests (PR) at this time.** However, you are always welcome to report bugs and request new features by creating issues.
+
+We have released this program as a sample app with a goal of making ToF AR widely available. So please feel free to create issues for reporting bugs and requesting features, and we may update this program or add new features after getting feedback.
