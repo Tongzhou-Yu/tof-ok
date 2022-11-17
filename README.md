@@ -5,7 +5,7 @@
     <img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" alt="Logo" width="360">
   </a>
 
-  <h3 align="center">ToF,OK!</h3>
+  <h3 align="center">ToF, OK!</h3>
 
   <p align="center">
     An UGC tool to jumpstart your virtual fashion projects!
