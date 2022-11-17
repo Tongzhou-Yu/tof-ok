@@ -29,6 +29,13 @@ The vision is to enable the designer to move away from traditional 3D design wor
 | UIManager | Optional. Control the funtion of the UI assets. |
 <br />
 
+## Verification environment
+
+Operation was verified in the following environment:
+
+* Unity Version  : 2020.3.28f1
+* ToF AR Version : 1.0.0
+
 <a name="about"></a>
 # About ToF AR
 
@@ -55,13 +62,6 @@ ToF AR Development documents are also available on Developer World.
 * [ToF AR user manual](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_User_Manual_en.html) for overview and usage
 * [ToF AR reference articles](https://developer.sony.com/develop/tof-ar/development-guides/docs/ToF_AR_Reference_Articles_en.html) for articles about each component
 * [ToF AR API references](https://developer.sony.com/develop/tof-ar/development-guides/reference-api/reference/api/TofAr.V0.html)
-
-## Verification environment
-
-Operation was verified in the following environment:
-
-* Unity Version  : 2020.3.28f1
-* ToF AR Version : 1.0.0
 
 
 <a name="contributing"></a>
