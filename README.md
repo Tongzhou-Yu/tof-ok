@@ -1,4 +1,4 @@
-<img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" width="200px">
+<p align="center"><img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" width="200px"><p>
 
 <a name="about"></a>
 # About ToF,OK!  
