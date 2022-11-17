@@ -1,4 +1,10 @@
 <a name="about"></a>
+# About ToF,OK!  
+
+ToF,OK! is an UGC solution based on for virtual fashion designers who are working in metaverse creative industries.  
+The vision is to enable the designer to move away from traditional 3D design workflows and design augmented reality products in augmented reality interactions, just like the tailoring approach in apparel design.  
+
+<a name="about"></a>
 # About ToF AR
 
 ToF AR, Time of Flight Augmented Reality, is a toolkit library intended to aid in Unity application development for iOS and Android devices. It consists of a group of functionalities based on depth information from ToF / Lidar (light detection and ranging) sensor and so on.
