@@ -27,7 +27,6 @@ The vision is to enable the designer to move away from traditional 3D design wor
 | --- | ---|
 | TofOkManager | Important. All make up assets on, such as point brush, line brush and sound. |
 | UIManager | Optional. Control the funtion of the UI assets. |
-<br />
 
 ## Verification environment
 
