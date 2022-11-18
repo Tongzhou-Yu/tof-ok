@@ -10,6 +10,9 @@
   <a href="https://github.com/Tongzhou-Yu/tof-ok/blob/main/LICENSE">
     <img src="https://img.shields.io/hexpm/l/plug">
   </a>
+  <a href="https://github.com/Tongzhou-Yu/tof-ok/issues">
+    <img src="https://img.shields.io/bitbucket/issues/Tongzhou-Yu/tof-ok">
+  </a>
   <a href="../../issues/new">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
   </a>
