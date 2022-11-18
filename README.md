@@ -48,13 +48,10 @@ Operation was verified in the following environment:
 
 ## Roadmap
 
- * [x] [WebID login](https://github.com/linkeddata/webid-login)
- * [x] [WebID signup](https://github.com/linkeddata/webid-signup)
- * [ ] [just started] [WebID keychain](https://github.com/linkeddata/webid-keychain)
- * [ ] person/group picker (with the option to invite new users)
- * [ ] groups manager (with delegation of admin rights)
- * [ ] contacts manager
- * [ ] ACL manager
+ * [x] Gesture Paint: pinch (Use the gesture to paint in the air.)
+ * [x] Face Anchor (Fix the result on the real-time face.)
+ * [x] Point Brush: Default (Main element for storing artists’ model element, which I called Point.)
+ * [x] Line Brush: Default (Black line with gradient width, that artists can apply their own particle shaders on, which is Line.)
 
 <a name="about"></a>
 # About ToF AR
