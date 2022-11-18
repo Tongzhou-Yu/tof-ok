@@ -4,6 +4,7 @@
   <a>
     <img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" alt="Logo" width="360">
   </a>
+</div>
 
   <h3 align="center">ToF, OK!</h3>
   <p align="center">
@@ -14,7 +15,7 @@
         ·
     <a href="https://blog.csdn.net/weixin_45454260/article/details/125945766">Explore the docs</a>
   </p>
-</div>
+
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](../../issues/new)
 
