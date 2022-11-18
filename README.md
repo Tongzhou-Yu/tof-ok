@@ -55,7 +55,7 @@ Operation was verified in the following environment:
 
 ## Roadmap
 ### Released  
- * [x] Gesture Paint: pinch (Use the gesture to paint in the air.)
+ * [x] `Gesture Paint: pinch` (Use the gesture to paint in the air.)
  * [x] Face Anchor (Fix the result on the real-time face.)
  * [x] Point Brush: Default (Main element for storing artists’ model element, which I called Point.)
  * [x] Line Brush: Default (Black line with gradient width, that artists can apply their own particle shaders on, which is Line.)
