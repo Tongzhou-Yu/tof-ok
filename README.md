@@ -6,11 +6,10 @@
   </a>
 
   <h3 align="center">ToF, OK!</h3>
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
   <p align="center">
     An UGC tool to jumpstart your virtual fashion projects!
     <br />
-    [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](../../issues/new)
     <br />
     <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo '雷电,OK!'</a>
         ·
