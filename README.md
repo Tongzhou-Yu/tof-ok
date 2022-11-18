@@ -34,10 +34,20 @@
 ToF,OK! is an UGC solution using ToF AR toolkit for virtual fashion designers who are working in metaverse creative industries.  
 The vision is to enable the designer to move away from traditional 3D design workflows and design augmented reality products in augmented reality interactions, just like the tailoring approach in apparel design.  
 <br />
-| Component | Description |
-| --- | ---|
-| TofOkManager | Important. All make up assets on, such as point brush, line brush and sound. |
-| UIManager | Optional. Control the funtion of the UI assets. |
+
+| VARIABLE | DESCRIPTION | TYPE | DEFAULT VALUE |
+| --- | --- | --- | --- |
+| Point Brush | Use models as brush. | GameObject |  |
+| Line Brush | Use LineRenderer as brush. | GameObject | LineBrush_Default |
+| Sound | The sound once generated a brush will be played. | AudioClip | ui-app.wav |
+| Toggle Point | Active the point brush function. | bool | True |
+| Toggle Line | Active the line brush function. | bool | True |
+| Toggle Face | Visible the face mask. | bool | False |
+| Transparent Face | The initial material of the face. | Material | TransparentFace |
+| Nr Drawing | When triggered, the brush generates a position factor between the index finger and thumb. The range interval is 0~1. | float | 0.5 |
+| Interval | The time interval at which each brush is generated. | float | 10 |
+| Threshold | When triggered, the distance between the index finger and the thumb. The unit of measurement is meters. | float | 0.05 |
+| Face Jewelry | The initial jewelry on face. | GameObject | OnFace |
 
 ## Verification environment
 
