@@ -9,9 +9,6 @@
   <p align="center">
     An UGC tool to jumpstart your virtual fashion projects!
     <br />
-    
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-    
     <br />
     <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo '雷电,OK!'</a>
         ·
@@ -19,7 +16,7 @@
   </p>
 </div>
 
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <a name="about"></a>
 # About ToF,OK!  
