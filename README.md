@@ -2,7 +2,7 @@
   <img align="center" width="360" src="ToF%2COK!.png" />
 
   <h1 align="center">ToF, OK!</h1>
-  <h3 align="center">An UGC tool to jumpstart your virtual fashion projects!</h3>
+  <h3 align="center">An A pro & ar UGC tool to jumpstart your virtual fashion projects!</h3>
 </p>
 
 <!-- Badges -->
