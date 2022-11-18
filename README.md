@@ -7,7 +7,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a>
+  <a href="https://github.com/Tongzhou-Yu/tof-ok/blob/main/LICENSE">
     <img src="https://img.shields.io/hexpm/l/plug">
   </a>
   <a href="https://twitter.com/TongzhouYuu" target="_blank">
