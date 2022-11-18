@@ -43,8 +43,8 @@ The vision is to enable the designer to move away from traditional 3D design wor
 
 Operation was verified in the following environment:
 
-* Unity Version  : 2020.3.28f1
-* ToF AR Version : 1.0.0  
+* [Unity](https://unity.cn/releases) Version  : 2020.3.28f1
+* [ToF AR](https://developer.sony.com/develop/tof-ar) Version : 1.0.0  
 
 ## Documentation
 - [Augmented Realities before AR](https://blog.csdn.net/weixin_45454260/article/details/125945766) - 被定义之前的增强现实
