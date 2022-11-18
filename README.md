@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="360" src="[assets/logo.png](https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png)" />
+  <img align="center" width="360" src="ToF%2COK!.png" />
 
   <h1 align="center">ToF, OK!</h1>
   <h3 align="center">An UGC tool to jumpstart your virtual fashion projects!</h3>
