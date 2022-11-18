@@ -7,6 +7,9 @@
 
 <!-- Badges -->
 <p align="center">
+  <a>
+    <img src="https://img.shields.io/hexpm/l/plug">
+  </a>
   <a href="https://github.com/Tongzhou-Yu/tof-ok/issues">
     <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
