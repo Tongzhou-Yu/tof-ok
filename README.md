@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
   <a href="https://twitter.com/TongzhouYuu" target="_blank">
-    <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
+    <img alt="Twitter: TongzhouYuu" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
   </a>
   <a href="../../issues/new">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
