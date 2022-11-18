@@ -46,6 +46,13 @@ Operation was verified in the following environment:
 * Unity Version  : 2020.3.28f1
 * ToF AR Version : 1.0.0  
 
+## Documentation
+- [Augmented Realities before AR](https://blog.csdn.net/weixin_45454260/article/details/125945766) - 被定义之前的增强现实
+- [ToF AR Basics for Unity](https://blog.csdn.net/weixin_45454260/article/details/125945096) - ToFAR基础与Unity设置
+- [ToF AR Hand Component](https://blog.csdn.net/weixin_45454260/article/details/126282902) - ToFAR Hand手势识别
+- [Face Tracking](https://blog.csdn.net/weixin_45454260/article/details/126009355) - 人脸跟踪
+- [Developing an AR Applications with ToF AR](https://blog.csdn.net/weixin_45454260/article/details/126157224) - 开发增强现实应用程序
+
 ## Roadmap
 ### Released  
  * [x] Gesture Paint: pinch (Use the gesture to paint in the air.)
