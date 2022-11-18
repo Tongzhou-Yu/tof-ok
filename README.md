@@ -10,11 +10,13 @@
   <a href="https://github.com/Tongzhou-Yu/tof-ok/blob/main/LICENSE">
     <img src="https://img.shields.io/hexpm/l/plug">
   </a>
-  <a href="https://twitter.com/TongzhouYuu" target="_blank">
-    <img alt="Twitter: TongzhouYuu" src="https://img.shields.io/twitter/follow/TongzhouYuu?style=social" />
-  </a>
   <a href="../../issues/new">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+  </a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/TongzhouYuu" target="_blank">
+    <img alt="Twitter: TongzhouYuu" src="https://img.shields.io/twitter/follow/TongzhouYuu?style=social" />
   </a>
 </p>
   
