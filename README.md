@@ -17,17 +17,15 @@
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
   </a>
 </p>
+
+<!-- Links -->
 <p align="center">
+  <a href="https://testflight.apple.com/join/EMaJ7vUF" target="_blank">
+    <img src="https://img.shields.io/badge/View%20iOS%20Demo-%E9%9B%B7%E7%94%B5%2COK!-orange" />
+  </a>
   <a href="https://twitter.com/TongzhouYuu" target="_blank">
     <img alt="Twitter: TongzhouYuu" src="https://img.shields.io/twitter/follow/TongzhouYuu?style=social" />
   </a>
-</p>
-  
-<!-- Links -->
-<p align="center">
-  <a href="https://testflight.apple.com/join/EMaJ7vUF" target="_blank">View iOS Demo '雷电,OK!'</a>
-  <span> · </span>
-  <a href="https://blog.csdn.net/weixin_45454260/article/details/125945766" target="_blank">Explore the docs</a>
 </p>
 
 <a name="about"></a>
