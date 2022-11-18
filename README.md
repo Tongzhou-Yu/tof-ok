@@ -7,13 +7,10 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes/issues">
+  <a href="https://github.com/Tongzhou-Yu/tof-ok/issues">
     <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
   </a>
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes/pulls">
-    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
-  </a>
-  <a href="https://twitter.com/piyushsthr" target="_blank">
+  <a href="https://twitter.com/TongzhouYuu" target="_blank">
     <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
   </a>
   <a href="../../issues/new">
