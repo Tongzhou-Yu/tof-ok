@@ -1,24 +1,32 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a>
-    <img src="https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png" alt="Logo" width="360">
-  </a>
-</div>
-
-<h3 align="center">ToF, OK!</h3>
-
 <p align="center">
-    An UGC tool to jumpstart your virtual fashion projects!
+  <img align="center" width="360" src="[assets/logo.png](https://github.com/Tongzhou-Yu/tof-ok/blob/main/ToF%2COK!.png)" />
+
+  <h1 align="center">ToF, OK!</h1>
+  <h3 align="center">An UGC tool to jumpstart your virtual fashion projects!</h3>
 </p>
-    <br />
-    <br />
-    <a href="https://testflight.apple.com/join/EMaJ7vUF">View iOS Demo '雷电,OK!'</a>
-        ·
-    <a href="https://blog.csdn.net/weixin_45454260/article/details/125945766">Explore the docs</a>
 
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](../../issues/new)
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes/issues">
+    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
+  </a>
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes/pulls">
+    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
+  </a>
+  <a href="https://twitter.com/piyushsthr" target="_blank">
+    <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
+  </a>
+  <a href="../../issues/new">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+  </a>
+</p>
+  
+<!-- Links -->
+<p align="center">
+  <a href="https://testflight.apple.com/join/EMaJ7vUF" target="_blank">View iOS Demo '雷电,OK!'</a>
+  <span> · </span>
+  <a href="https://blog.csdn.net/weixin_45454260/article/details/125945766" target="_blank">Explore the docs</a>
+</p>
 
 <a name="about"></a>
 # About ToF,OK!  
