@@ -55,26 +55,26 @@ Operation was verified in the following environment:
 
 ## Roadmap
 ### Released  
- * [x] `Gesture Paint: pinch` (Use the gesture to paint in the air.)
- * [x] Face Anchor (Fix the result on the real-time face.)
- * [x] Point Brush: Default (Main element for storing artists’ model element, which I called Point.)
- * [x] Line Brush: Default (Black line with gradient width, that artists can apply their own particle shaders on, which is Line.)
- * [x] Point Brush: Glass Sample (A refraction sample for show the possibility of point brush.)
- * [x] Line Brush: Liquid Sample (A refraction sample for show the possibility of line brush.)
- * [x] Delete function (Delete the point or the whole trace.)
- * [x] Shader Graph support (For the easilier usage to the artists.)
+ * [x] `Gesture Paint` `pinch` Use the gesture to paint in the air.
+ * [x] `Face Anchor` Fix the result on the real-time face.
+ * [x] `Point Brush` `Default` Main element for storing artists’ model element, which I called Point.
+ * [x] `Line Brush` `Default` Black line with gradient width, that artists can apply their own particle shaders on, which is Line.
+ * [x] `Point Brush` `Glass Sample` A refraction sample for show the possibility of point brush.
+ * [x] `Line Brush` `Liquid Sample` A refraction sample for show the possibility of line brush.
+ * [x] `Delete function` Delete the point or the whole trace.
+ * [x] `Shader Graph support` For the easilier usage to the artists.
 ### In Progress
- * [ ] Image Filter (Apply stylized effect on the real view, both color image and tof image.)
- * [x] Point Brush Elements (As the flower in the demo, there will be more elements such as diamonds, stars and etc..)
+ * [ ] `Image Filter` Apply stylized effect on the real view, both color image and tof image.
+ * [x] `Point Brush Elements` As the flower in the demo, there will be more elements such as diamonds, stars and etc..
 ### Planned
- * [x] Result Export: Video (Save and export the result for the ability of sharing and selling.)
- * [ ] Result Export: Model (Save and export the result for the ability of sharing and selling.)
- * [ ] Symmetry Mode (Create brush’s copy symmetrically.)
+ * [x] `Result Export` `Video` Save and export the result for the ability of sharing and selling.
+ * [ ] `Result Export` `Model` Save and export the result for the ability of sharing and selling.
+ * [ ] `Symmetry Mode` Create brush’s copy symmetrically.
 ### Consideration
- * [ ] Paint on the face mesh (Use the finger to paint on the texture of the facemesh generated.)
- * [ ] Body Anchor (Fix the result on the real-time body for Digital Fashion.)
- * [ ] More gestures for different brushs (For the easilier usage to the artists.)
- * [ ] Mesh Brush (Allow artists to create more 3D result.)
+ * [ ] `Paint on the face mesh` Use the finger to paint on the texture of the facemesh generated.
+ * [ ] `Body Anchor` Fix the result on the real-time body for Digital Fashion.
+ * [ ] `More gestures for different brushs` For the easilier usage to the artists.
+ * [ ] `Mesh Brush` Allow artists to create more 3D result.
 
 <a name="about"></a>
 # About ToF AR
