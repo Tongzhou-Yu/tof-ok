@@ -44,7 +44,17 @@ The vision is to enable the designer to move away from traditional 3D design wor
 Operation was verified in the following environment:
 
 * Unity Version  : 2020.3.28f1
-* ToF AR Version : 1.0.0
+* ToF AR Version : 1.0.0  
+
+## Roadmap
+
+ * [x] [WebID login](https://github.com/linkeddata/webid-login)
+ * [x] [WebID signup](https://github.com/linkeddata/webid-signup)
+ * [ ] [just started] [WebID keychain](https://github.com/linkeddata/webid-keychain)
+ * [ ] person/group picker (with the option to invite new users)
+ * [ ] groups manager (with delegation of admin rights)
+ * [ ] contacts manager
+ * [ ] ACL manager
 
 <a name="about"></a>
 # About ToF AR
