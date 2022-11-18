@@ -10,9 +10,6 @@
   <a>
     <img src="https://img.shields.io/hexpm/l/plug">
   </a>
-  <a href="https://github.com/Tongzhou-Yu/tof-ok/issues">
-    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
-  </a>
   <a href="https://twitter.com/TongzhouYuu" target="_blank">
     <img alt="Twitter: TongzhouYuu" src="https://img.shields.io/twitter/follow/TongzhouYuu?style=social" />
   </a>
